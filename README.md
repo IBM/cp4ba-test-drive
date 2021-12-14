@@ -11,7 +11,7 @@ All times are listed in Central European Time (GMT+1:00h)
 | 8.30     | Welcome, Day Overview and Introduction                       |
 | 9:00     | Overview & Demonstration of Client Onboarding Solution       |
 | 9.45     | Break                                                        |
-| 10:00    | Hands-on: Execute Client Onboarding Solution: Lab Instructions |
+| 10:00    | Hands-on: Execute Client Onboarding Solution: [Lab Instructions](Labs/End-to-End/%5BTest%20Drive%5D%20Lab%20Guide%20-%20End-to-End%20Scenario.pdf) |
 | 11:00    | Instructor: Introduction to Workflow Lab                     |
 | 11:15    | Hands-on: Explore Workflow - Part 1: [Lab Instructions](Labs/Workflow/%5BTest%20Drive%5D%20Lab%20Guide%20-%20Introduction%20to%20IBM%20Business%20Automation%20Workflow.pdf) \| [Lab Data](Labs/Workflow/Lab%20Data) |
 | 13:00    | Lunch Break                                                  |
