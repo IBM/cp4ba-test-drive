@@ -17,7 +17,7 @@ All times are listed in Central European Time (GMT+1:00h)
 | 13:00    | Lunch Break                                                  |
 | 14:00    | Hands-on: Explore Workflow - Part 2: [Lab Instructions](Labs/Workflow/%5BTest%20Drive%5D%20Lab%20Guide%20-%20Using%20Services%20in%20Workflow.pdf) \| [Lab Data](Labs/Workflow/Lab%20Data) |
 | 15:15    | Instructor: Workflow Lab Summary                             |
-| 15:30    | Hands-on (Select on of the two labs): (1) Build Client Onboarding Worklow Dashboards: [Lab Instructions](Labs/Business%20Automation%20Insights/Lab%20Guide%20-%20Operational%20Intelligence%20-%20BAI%20-%20Build%20Business%20Performance%20Center%20Dashboard.pdf) ,or (2) Explore Client Onboarding Worklow Dashboards: [Lab Instructions](Labs/Business%20Automation%20Insights/Lab%20Guide%20-%20Operational%20Intelligence%20-%20BAI%20-%20Explore%20Business%20Performance%20Center%20Dashboard.pdf) |
+| 15:30    | Hands-on (select on of the two labs): (1) Build Client Onboarding Worklow Dashboards: [Lab Instructions](Labs/Business%20Automation%20Insights/Lab%20Guide%20-%20Operational%20Intelligence%20-%20BAI%20-%20Build%20Business%20Performance%20Center%20Dashboard.pdf) - duration 1 hour ,or (2) Explore Client Onboarding Worklow Dashboards: [Lab Instructions](Labs/Business%20Automation%20Insights/Lab%20Guide%20-%20Operational%20Intelligence%20-%20BAI%20-%20Explore%20Business%20Performance%20Center%20Dashboard.pdf) - duration 20 minutes. |
 | 16:30    | Instructor: BAI Lab Summary                                  |
 | 16:45    | Q&A and Event Wrap-up                                        |
 
