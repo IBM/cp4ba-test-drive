@@ -1,6 +1,6 @@
 # IBM Cloud Pak for Business Automation Test Drive
 
-Hello and welcome to the December 2021 edition of the IBM Cloud Pak for Business Automation Test Drive. 
+Hello and welcome to the March 2022 edition of the IBM Cloud Pak for Business Automation Test Drive. 
 
 ## Agenda & Labs
 
