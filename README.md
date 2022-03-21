@@ -25,7 +25,7 @@ All times are listed in Central European Time (GMT+1:00h)
 
 ## Support
 
-For any questions, comments and feedback please go to the [#cp4ba-test-drive](https://ibm-cloudpak-partners.slack.com/archives/C02NUHE63JA) Slack channel.
+For any questions, comments and feedback please go to the [#cp4ba-test-drive](https://ibm-cloudpak-partners.slack.com/archives/C0372F71FGF) Slack channel.
 
 ## Survey
 
